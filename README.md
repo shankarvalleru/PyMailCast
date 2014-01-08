@@ -9,11 +9,11 @@ Usage
 1. Add all the recipient emails in CSV(comma separated) format in emails.csv file
 2. Update the following variables in mailcast.py
 
-	user_name = 'your_user_name<string>'
-	password = '<your_password<string>>'
-	smtp_server = 'your_smtp_server_address<string>'
-	smtp_port = your_smtp_server_port<int> 
-	subject = 'email_subject<string>'
+	user_name = 'your_user_name_string'
+	password = 'your_password_string'
+	smtp_server = 'your_smtp_server_address_string'
+	smtp_port = your_smtp_server_port_int 
+	subject = 'email_subject_string'
 	email_template = 'your_html_email_template_file'
 	
 	example config:
