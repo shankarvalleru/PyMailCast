@@ -10,6 +10,7 @@ Usage
 2. Update the following variables in mailcast.py
 
 	user_name = 'your_user_name_string'
+	
 	password = 'your_password_string'
 	smtp_server = 'your_smtp_server_address_string'
 	smtp_port = your_smtp_server_port_int 
