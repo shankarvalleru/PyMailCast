@@ -7,7 +7,7 @@ Python script that multicasts HTML emails
 Usage
 ==========
 1. Add all the recipient emails in CSV(comma separated) format in emails.csv file
-2. Update the following variables in mailcast.py
+2. Update the following variables(user_name, password, smtp_server, smtp_port, subject, email_template) in mailcast.py
 
 	user_name = 'your_user_name_string'
 	password = 'your_password_string'
